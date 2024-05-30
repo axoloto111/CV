@@ -20,9 +20,4 @@ const body = encodeURIComponent(
 window.location.href = `mailto:prenom.nom@univ-ubs.fr?subject=${subject}&body=${body}`;
 
 
-
-
-
-
-
 }
